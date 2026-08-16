@@ -171,7 +171,7 @@ python src/train.py
 
 ## Author
 
-**Saurabh Das**
+**Showrav Das**
 
 BSc in Mathematics | Python | Machine Learning | Data Analysis
 
